@@ -1,9 +1,7 @@
 package main
 
-import (
-	"learn_golang_series/file"
-)
+import "learn_golang_series/read"
 
 func main()  {
-	file.WriteMany()
+	read.Line()
 }
