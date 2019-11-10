@@ -1,7 +1,8 @@
 package main
 
-import "learn_golang_series/read"
+import "learn_golang_series/refle"
+
 
 func main()  {
-	read.Line()
+	refle.DemoSql()
 }
